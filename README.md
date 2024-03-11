@@ -21,7 +21,13 @@ Extraer la información solicitada en los ejercicios adjuntos a este repositorio
 
 Sakila es una base de datos de ejemplo que simula una tienda de alquiler de películas.
 
+Poner en práctica : 
 
+- Queries básicas y avanzadas
+- Joins
+- Union/Union All
+- Subconsultas
+- CTEs
 
 
 ## 🛠 Skills
